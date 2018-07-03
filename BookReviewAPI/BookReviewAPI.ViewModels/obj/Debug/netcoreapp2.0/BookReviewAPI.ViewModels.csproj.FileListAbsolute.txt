@@ -1,0 +1,9 @@
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\bin\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.deps.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\bin\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\bin\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\obj\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.csprojAssemblyReference.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\obj\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.csproj.CoreCompileInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\obj\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.AssemblyInfoInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\obj\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.AssemblyInfo.cs
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\obj\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.ViewModels\obj\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.pdb

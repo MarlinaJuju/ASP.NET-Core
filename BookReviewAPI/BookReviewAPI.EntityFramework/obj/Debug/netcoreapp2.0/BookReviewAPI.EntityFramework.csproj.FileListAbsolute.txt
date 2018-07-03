@@ -1,0 +1,14 @@
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.deps.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\obj\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.csprojAssemblyReference.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\obj\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\obj\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.AssemblyInfoInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\obj\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.AssemblyInfo.cs
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\obj\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.csproj.CopyComplete
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\obj\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\obj\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.runtimeconfig.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.runtimeconfig.dev.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\bin\Debug\netcoreapp2.0\BookReviewAPI.Models.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.EntityFramework\bin\Debug\netcoreapp2.0\BookReviewAPI.Models.pdb

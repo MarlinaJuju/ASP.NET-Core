@@ -1,0 +1,9 @@
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\bin\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.deps.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\bin\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\obj\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.csprojAssemblyReference.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\obj\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.csproj.CoreCompileInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\obj\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.AssemblyInfoInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\obj\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.AssemblyInfo.cs
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\bin\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\obj\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\ExceptionHandlingMiddleware\obj\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.pdb

@@ -4,4 +4,18 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookReviewAPI.Repositories\BookReviewAPI.Repositories.csproj" />
+    <ProjectReference Include="..\BookReviewAPI.ViewModels\BookReviewAPI.ViewModels.csproj" />
+    <ProjectReference Include="..\ExceptionHandlingMiddleware\ExceptionHandlingMiddleware.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Author\" />
+  </ItemGroup>
+
 </Project>

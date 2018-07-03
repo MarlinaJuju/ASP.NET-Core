@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
-using BookReviewAPI.Entities;
 using BookReviewAPI.Models;
 using BookReviewAPI.Services;
+using BookReviewAPI.ViewModels.Author;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,28 +14,23 @@ namespace BookReviewAPI.Controllers
     [Route("api/author")]
     public class AuthorsController : Controller
     {
-        private readonly IBookReviewRepository _repository;
+        private readonly IAuthorService _authorService;
 
-        public AuthorsController(IBookReviewRepository repository)
+        public AuthorsController( IAuthorService authorService)
         {
-            _repository = repository;
+            _authorService = authorService;
         }
 
         [HttpGet]
         public IActionResult getAllAuthors()
         {
-            return Ok(Mapper.Map<IEnumerable<AuthorDTO>>(_repository.GetAuthors()));
+            return Ok(_authorService.GetAllAuthors());
         }
 
         [HttpGet("{id}", Name = "GetAuthor")]
         public IActionResult getAuthor(int id)
         {
-            Author author = _repository.GetAuthor(id);
-            if (author == null)
-            {
-                return NotFound();
-            }
-            return Ok(Mapper.Map<AuthorDetailDTO>(author));
+            return Ok(_authorService.GetAuthor(id));
         }
 
         [HttpPost]
@@ -43,34 +38,17 @@ namespace BookReviewAPI.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest(ModelState.Values.First().Errors.First().ErrorMessage);
+                return BadRequest(ModelState);
             }
-            Author author = Mapper.Map<Author>(authorDTO);
-            if (author == null)
-            {
-                return BadRequest();
-            }
-            if (!_repository.Add(author))
-            {
-                return StatusCode(500, "A problem happen when handling your request");
-            }
-            return CreatedAtRoute("GetAuthor", new { id = author.Id }, author);
+            _authorService.Add(authorDTO);
+            return Ok();
 
         }
 
         [HttpPut("{id}")]
         public IActionResult editAuthor(int id, [FromBody]AuthorInsertDTO authorDTO)
         {
-            Author author = _repository.GetAuthor(id);
-            if (author == null)
-            {
-                return NotFound();
-            }
-            Mapper.Map(authorDTO, author);
-            if (!_repository.Save())
-            {
-                return StatusCode(500, "A problem happen when handling your request");
-            }
+            _authorService.Edit(id, authorDTO);
             return NoContent();
         }
 
@@ -81,32 +59,16 @@ namespace BookReviewAPI.Controllers
             {
                 return BadRequest();
             }
-            var author = _repository.GetAuthor(id);
-            if (author == null)
-            {
-                return NotFound();
-            }
-            var authorDTO = Mapper.Map<AuthorInsertDTO>(author);
+            var author = _authorService.GetAuthor(id);
+            var authorDTO = _authorService.ParseToInsertDTO(author);
             patchDoc.ApplyTo(authorDTO, ModelState);
-            Mapper.Map(authorDTO, author);
-            if (!_repository.Save())
-            {
-                return StatusCode(500, "A problem happen when handling your request");
-            }
+            _authorService.EditPartial(authorDTO, author);
             return NoContent();
         }
         [HttpDelete("{id}")]
         public IActionResult deleteAuthor(int id)
         {
-            var author = _repository.GetAuthor(id);
-            if (author == null)
-            {
-                return NotFound();
-            }
-            if (!_repository.Delete(author))
-            {
-                return StatusCode(500, "A problem happen when handling your request");
-            }
+            _authorService.Delete(id);
             return NoContent();
         }
     }

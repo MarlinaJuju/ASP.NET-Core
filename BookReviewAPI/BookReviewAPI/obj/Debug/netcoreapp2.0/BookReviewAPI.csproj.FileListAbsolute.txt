@@ -9,3 +9,27 @@ D:\Geekseat Documents\Visual Studio 2017\Projects\BookReviewAPI\BookReviewAPI\ob
 D:\Geekseat Documents\Visual Studio 2017\Projects\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.pdb
 D:\Geekseat Documents\Visual Studio 2017\Projects\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.dll
 D:\Geekseat Documents\Visual Studio 2017\Projects\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.csprojAssemblyReference.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.csproj.CoreCompileInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.AssemblyInfoInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.AssemblyInfo.cs
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.deps.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.runtimeconfig.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.runtimeconfig.dev.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.Models.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.Models.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\obj\Debug\netcoreapp2.0\BookReviewAPI.csproj.CopyComplete
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.Repositories.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.Services.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.Repositories.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.Services.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\BookReviewAPI.ViewModels.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI\bin\Debug\netcoreapp2.0\ExceptionHandlingMiddleware.pdb

@@ -1,0 +1,14 @@
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\bin\Debug\netcoreapp2.0\BookReviewAPI.Repositories.deps.json
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\bin\Debug\netcoreapp2.0\BookReviewAPI.Repositories.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\bin\Debug\netcoreapp2.0\BookReviewAPI.Repositories.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\bin\Debug\netcoreapp2.0\BookReviewAPI.Models.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\bin\Debug\netcoreapp2.0\BookReviewAPI.EntityFramework.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\bin\Debug\netcoreapp2.0\BookReviewAPI.Models.pdb
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\obj\Debug\netcoreapp2.0\BookReviewAPI.Repositories.csprojAssemblyReference.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\obj\Debug\netcoreapp2.0\BookReviewAPI.Repositories.csproj.CoreCompileInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\obj\Debug\netcoreapp2.0\BookReviewAPI.Repositories.AssemblyInfoInputs.cache
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\obj\Debug\netcoreapp2.0\BookReviewAPI.Repositories.AssemblyInfo.cs
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\obj\Debug\netcoreapp2.0\BookReviewAPI.Repositories.csproj.CopyComplete
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\obj\Debug\netcoreapp2.0\BookReviewAPI.Repositories.dll
+D:\Geekseat Documents\ASP.NET-Core\BookReviewAPI\BookReviewAPI.Repositories\obj\Debug\netcoreapp2.0\BookReviewAPI.Repositories.pdb
